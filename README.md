@@ -1,1 +1,4 @@
 # ChangeCalculator
+
+
+![](img/example.PNG)
