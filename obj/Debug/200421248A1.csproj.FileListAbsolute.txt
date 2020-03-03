@@ -1,0 +1,9 @@
+C:\Users\Diana\source\repos\200421248A1\bin\Debug\200421248A1.exe.config
+C:\Users\Diana\source\repos\200421248A1\bin\Debug\200421248A1.exe
+C:\Users\Diana\source\repos\200421248A1\bin\Debug\200421248A1.pdb
+C:\Users\Diana\source\repos\200421248A1\obj\Debug\200421248A1.csprojAssemblyReference.cache
+C:\Users\Diana\source\repos\200421248A1\obj\Debug\_200421248A1.Properties.Resources.resources
+C:\Users\Diana\source\repos\200421248A1\obj\Debug\200421248A1.csproj.GenerateResource.cache
+C:\Users\Diana\source\repos\200421248A1\obj\Debug\200421248A1.exe
+C:\Users\Diana\source\repos\200421248A1\obj\Debug\200421248A1.pdb
+C:\Users\Diana\source\repos\200421248A1\obj\Debug\_200421248A1.ChangeCalculator.resources
