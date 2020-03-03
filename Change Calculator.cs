@@ -49,7 +49,7 @@ namespace _200421248A1
             if (!Single.TryParse(inputPaid, out paid) | !Single.TryParse(inputTotal, out total))
             {
                 // If not, show an error massage in message box
-                MessageBox.Show("Invalid Paid or/and Total value", "Error");
+                MessageBox.Show("Invalid Paid or/and Total value, try again!", "Error");
                 // Clean calculations in a case if form already been used before and there something left
                 DeleteCalculations();
             }
@@ -58,7 +58,7 @@ namespace _200421248A1
             else if (total < 0)
             {
                 // If not, show an error massage in message box
-                MessageBox.Show("Total amount, must be positive integer", "Total amount Error");
+                MessageBox.Show("Total amount, must be positive integer. Try again!", "Total amount Error");
                 // Clean calculations in a case if form already been used before and there something left
                 DeleteCalculations();
             }
@@ -67,7 +67,7 @@ namespace _200421248A1
             else if (paid <= 0)
             {
                 // If not, show an error massage in message box
-                MessageBox.Show("Paid amount, must be positive integer", "Paid amount Error");
+                MessageBox.Show("Paid amount, must be positive integer. Try again!", "Paid amount Error");
                 // Clean calculations in a case if form already been used before and there something left
                 DeleteCalculations();
             }
